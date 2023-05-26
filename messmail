@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+mail -s 'Attention user777, this is karr' < /home/karen/Desktop/message.txt user777
+echo "mail sent"
